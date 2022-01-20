@@ -1,9 +1,10 @@
 ### Hola, soy Emanuel Romero 👋
 
-<!--
 **ema14bdt/ema14bdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
+- 🌱 I’m developer Fullstack certificated in Digital House.
+- 🔭 I’m currently working on IT Rock as Backend Developer.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,7 +13,5 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-
-- 🌱 I’m currently learning developer Fullstack in Digital House.
 
 
